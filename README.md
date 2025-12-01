@@ -108,10 +108,10 @@ plastic fiber when forward current was 10 mA as 200 mW. This means that the elec
 current is converted into 200 mW of optical energy. Hence the efficiency of the LED comes out to be approx.
 1.15%.
 - With this efficiency assumed, find out optical power coupled into plastic optical fiber for each of
-the reading. Plot the graph of forward current v/s output optical power of the LED.
 - Similarly measure the current at the detector.
 - Plot the graph of receiver current v/s output optical power of the LED.
 - Perform the above procedure again for all the combinations of Transmitter & Receiver.  
+the reading. Plot the graph of forward current v/s output optical power of the LED.
 
 **Tabulation:**
 
